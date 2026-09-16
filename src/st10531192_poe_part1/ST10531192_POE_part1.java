@@ -1,3 +1,4 @@
+// ST10531192 - Main method logic
 package st10531192_poe_part1;
 
 import java.util.Scanner;
